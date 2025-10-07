@@ -1,0 +1,2 @@
+<script src="//ulogin.ru/js/ulogin.js"></script>
+<div id="uLogin" data-ulogin="display=panel;theme=classic;fields=first_name,last_name,email;optional=phone;providers=vkontakte,odnoklassniki,facebook,twitter,google,linkedin;redirect_uri=;callback=register_social;"></div>

@@ -1,0 +1,13 @@
+User-agent: *
+Disallow:
+Disallow: /blagodarim-za-rezervaciyu/
+Disallow: /va-multumim-pentru-reservare/
+Disallow: /thank-you-for-reservation/
+Disallow: /cdn-cgi/l/email-protection
+Disallow: /ro/confidentialitate/
+Disallow: /en/terms-and-conditions/
+Disallow: /ru/sroki-i-usloviya/
+Disallow: /ro/termeni-si-conditii/
+Disallow: /en/confidentiality/
+Disallow: /ru/konfidencialinosti/
+Host: www.car4rent.md
